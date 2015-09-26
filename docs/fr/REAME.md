@@ -1,13 +1,13 @@
 # Contribuer à l'open source
 
-La mise en pension de test pour l'apprentissage
+La mise en place de test pour l'apprentissage
 
-Contribuer à l'Open Source ne nécessite pas de compétences de codage. Il ya plusieurs façons dont vous pouvez contribuer sans savoir programmer.
+Contribuer à l'Open Source ne nécessite pas de compétences de codage. Il y a plusieurs façons dont vous pouvez contribuer sans savoir programmer.
 
 
 ## Répondre
 
-En tant qu'utilisateur, vous aurez diverses compétences et les connaissances acquises à partir de l'aide des outils fournis par le projet. Vous pouvez partager cette expérience avec les gens qui sont nouveaux dans le projet par anwwering questions sur les listes de diffusion, forums, ou IRC. En répondant à ces questions de débutant, vous aidez les débutants à démarrer, ce qui est une étape importante dans tout projet. Échec pour obtenir le travail téléchargements est une raison majeure pour laquelle les gens choisissent autre chose.
+En tant qu'utilisateur, vous aurez diverses compétences et connaissances acquises à partir de l'aide des outils fournis par le projet. Vous pouvez partager cette expérience avec les gens qui sont nouveaux dans le projet en répondant aux questions sur les listes de diffusion, forums, ou IRC. En répondant à ces questions de débutant, vous aidez les débutants à démarrer, ce qui est une étape importante dans tout projet. Échec pour obtenir le travail téléchargements est une raison majeure pour laquelle les gens choisissent autre chose.
 
 ## Documenter
 
